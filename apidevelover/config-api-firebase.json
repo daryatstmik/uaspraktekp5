@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "restapiuaspraktek-artislokal",
+  "private_key_id": "52281017444e82198bdb81b003e59db33bad5718",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC7hXRaEbDSqigO\nju3PMx0E2R6E7L4zvjLKKQmvsVP+FU7ByZMf2RStfStgUZUqnNUyFR07BLTXKeal\nCJHL+yGt2UMhuZ961GQrgSTGe44iVwoShe1qHsOGJtakR5tCbWDLgvE+gs1xruh0\nppYKSWZjiLFU1b+duvVV+h5ifin7GQldiuLCnfb2e7m5fq9746ePtIBiFNB8t+zc\nsIGhmHo9L2F153a0uO9guVBlbRWExDUZqazBaaftQvN3ydv5ylkGv3ZKl7AmRg2W\n/32VHekOE5gfNbDY1GIcx8PquJ2o/oRyWuDYlaIPg0NQkMdz83yrRHlwypb1G4B2\ny+/nAv7/AgMBAAECggEAGWlHUCFPleyrCvYBce+aQhruENNIHxjqJw0Sm/VqzWaz\nynz3a/xt2ei5ZQ8JKMIh/exwjpvfqbyq3bhgkYTRlo53k21lGC8J9/9DLYZ2x16G\nJeZyOsw6cMZ4lcCCYKkT0eBHstHk5z/tjkk40eIKdviCF13z3nsEXgdL8MrqA3Ww\nboeQZNKyW+sANh2FmEJFPSs8SUVpzoGgwPX1DNMcRaMDmXNOY71hKnwt6AvWnkzJ\nrWlwJEt4Hg7BIMEdXO/YWi6c7dEV4o36gW0q5msKnTfX9MWyqSGZxKvP9a/wWjft\nYzSOtOqeeXngiM9dnWGNkEK0IQ+OYqUFC+MzzVwRKQKBgQDxdPcNfM0PU5C+kp5k\nyXlGmST3t1FL3SbnWR6M4ffZV7tXB/nm87cNbHuMuiJGMrTMSWXoOGQGDowca6fB\nqEhfgxTX2/uknaahRagnrwZqylgYKPsE12TLuECt+ZSLindcV2oc9nukdbOcYNo6\nENND7J4zFNceLrnYru/gPOwxgwKBgQDG0Nqo5iQtO4KZkuwPnF4r0y2SR7pKqEnB\n1+SvZoXgJZxcZV6XXND35OzIMC9+LCvyiVJWZoAK7I3fn2zJWIj/8Q+BVazNIvzY\nWCdGHUP/vdpst6ioaEctSWo2juCeJj7CFnH+J6X01cl7rZ5xHdpoXrXUVPv9xTd+\nEqBBzgJv1QKBgQDpmDnmz4VnPXY8GIaqhQwSE9ji2nQJDAQ2L07SB08L8sdoVGwd\nVk0S7I++vtinxyiItr2jYuLJxUsht7kNLqwN0zfX+ZfDU03Ami4rbjWsHOQLQ6JN\ntcBrIm9YoKtoMGZ3bI5ZRNCrc793G3AkWuC4xvLqAlB3f8cGbX/eFbJ/1wKBgD7m\nSKdy2DMvRqxLnT97GxgGYb6LztZb06nuIb2UU/qMK6HXuEtu4/XpiTf0drIWS3ka\nFOCc4RmTqXb8OzCgQAepPlyOvHLSBOh1S0eVbrP0XqxSlpthElOzjFTicxHVy7kf\n3MSpyolhMbNdRGlJJpYqkKAymt64jEvonKb1BDRZAoGANngfp/+QmtnqhsexQzGP\n0Jtg+pZeIwaOdLaLFouNz0d+NB1v0RVzeGSK2JfpgJCIoMzyV2WorkPFTTVcX8oL\n2+F0gUY3SqwTPS5rRtIQSKVlk0xMwsTsCJ9r/km9C9/ratER0ee5gzZ19pR8oCvh\nr0WmxvBW4hwfFOwjhG2b3GY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-fbsvc@restapiuaspraktek-artislokal.iam.gserviceaccount.com",
+  "client_id": "101064992840995598515",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-fbsvc%40restapiuaspraktek-artislokal.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
